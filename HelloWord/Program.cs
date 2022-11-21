@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Ciao come va?");
+Console.WriteLine("Ciao che giorno è oggi?");
 
 var risposta = Console.ReadLine();
 
